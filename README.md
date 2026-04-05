@@ -2,7 +2,7 @@
 
 Personal portfolio site for **Alok Kumar**, Senior Cloud DevOps Engineer with 11+ years of experience across Azure, AWS, and GCP.
 
-🔗 **Live Site:** `https://<your-github-username>.github.io/alok-kumar-portfolio`
+🔗 **Live Site:** `https://apalok4.github.io/alok-kumar-portfolio`
 
 ---
 
@@ -30,7 +30,7 @@ alok-kumar-portfolio/
    git add .
    git commit -m "Initial commit: portfolio site"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/alok-kumar-portfolio.git
+   git remote add origin https://github.com/apalok4/alok-kumar-portfolio.git
    git push -u origin main
    ```
 
